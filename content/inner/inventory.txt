@@ -1,0 +1,2 @@
+berries, 5
+towels, 3
